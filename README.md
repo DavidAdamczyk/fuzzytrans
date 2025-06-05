@@ -1,6 +1,6 @@
 # FuzzyTrans
 
-**FuzzyTrans** is a Python library for fuzzy set theory inspired transformations, reimplementing the functionality of the [UpperLowerApp](https://github.com/ZahraAlijani/UpperLowerApp). It provides implementations of triangular, Gaussian, and Bell fuzzy sets, along with their transformation components (F_A_up/down) and inverse transformations.
+**FuzzyTrans** is a Python library for fuzzy set theory inspired transformations, reimplementing the functionality of the [UpperLowerApp](https://github.com/ZahraAlijani/UpperLowerApp) licensed under the MIT License and developed by Zahra Alijani and Martina Daňková. It provides implementations of triangular, Gaussian, and Bell fuzzy sets, along with their transformation components (F_A_up/down) and inverse transformations.
 
 ## Installation
 
